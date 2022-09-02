@@ -1,4 +1,4 @@
-# title: Neural Conditional Random Field Enhances Spatial-Temporal Embedding for Multivariate Time Series Forecasting 
+# title: Dynamic Spatial-Temporal Embedding via Neural Conditional Random Field for Multivariate Time Series Forecasting 
 
 This folder concludes the code and data of our ASTCRF model. 
 
