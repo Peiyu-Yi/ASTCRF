@@ -1,6 +1,6 @@
 # title: Neural Conditional Random Field Enhances Spatial-Temporal Embedding for Multivariate Time Series Forecasting 
 
-This folder concludes the code and data of our ASTCRF model, which has been submitted to the [IEEE ICDE 2022](https://icde2022.ieeecomputer.my/). 
+This folder concludes the code and data of our ASTCRF model. 
 
 ## Structure:
 * configs: including parameter configurations for four used datasets.
