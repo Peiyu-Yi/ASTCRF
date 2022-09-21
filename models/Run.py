@@ -25,7 +25,7 @@ DEVICE = 'cuda:0'
 MODEL = 'ASTCRF'
 
 #get configuration
-config_file = 'configs/{}_{}.conf'.format(DATASET, MODEL)
+config_file = '../configs/{}_{}.conf'.format(DATASET, MODEL)
 #print('Read configuration file: %s' % (config_file))
 config = configparser.ConfigParser()
 config.read(config_file)
