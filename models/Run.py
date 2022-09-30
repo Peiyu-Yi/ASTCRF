@@ -20,7 +20,7 @@ from lib.TrainInits import print_model_parameters
 #*************************************************************************#
 Mode = 'train'
 DEBUG = 'True'
-DATASET = 'solar'      # PEMSD4 or PEMSD8  solar exchange_rate
+DATASET = 'solar'      # PEMSD4 or PEMSD8  solar electricity exchange_rate
 DEVICE = 'cuda:0'
 MODEL = 'ASTCRF'
 
