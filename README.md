@@ -18,7 +18,7 @@ This folder concludes the code and data of our ASTCRF model.
 
 Python 3.8.5, Pytorch 1.7.0, Numpy 1.21.2, Pandas 1.3.2, matplotlib 3.3.4, argparse and configparser
 
-To replicate the results, you can run the codes in the "model" folder directly, by setting 'DATASET=' in 'Run.py' as corresponding dataset ('PEMS04', 'PEMS08', 'solar', 'exchange').
+To replicate the results, you can run the codes in the "model" folder directly, by setting 'DATASET=' in 'Run.py' as corresponding dataset ('PEMS04', 'PEMS08', 'solar', 'electricity', 'exchange').
 
 ## Acknowledgments
 This codebase is heavily borrowed from [AGCRN](https://github.com/LeiBAI/AGCRN), we would like to thank [LEI BAI](http://leibai.site/) for his pytorch implementation of [AGCRN](https://arxiv.org/pdf/2007.02842.pdf).
