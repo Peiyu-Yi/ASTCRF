@@ -1,11 +1,11 @@
 # title: Dynamic Spatial-Temporal Embedding via Neural Conditional Random Field for Multivariate Time Series Forecasting 
 
-This folder concludes the code and data of our ASTCRF model. 
+This folder concludes the source code of our ASTCRF model. 
 
 ## Structure:
 * configs: including parameter configurations for four used datasets.
   
-* data: including PEMS04, PEMS08, Solar-Energy and Exchange-Rate datasets used in our experiments. PEMS04 and PEMS08 are released by and available at  [ASTGCN](https://github.com/Davidham3/ASTGCN/tree/master/data). Solar-Energy and Exchange-Rate are available at [Multivariate Time Series Data Sets](https://github.com/laiguokun/multivariate-time-series-data).
+* data: including five bechmark datasets: PEMS04, PEMS08, Solar-Energy, Electricity and Exchange-Rate datasets used in our experiments. PEMS04 and PEMS08 are released by and available at  [ASTGCN](https://github.com/Davidham3/ASTGCN/tree/master/data). Solar-Energy and Exchange-Rate are available at [Multivariate Time Series Data Sets](https://github.com/laiguokun/multivariate-time-series-data).
 
 * lib: contains self-defined modules for our work, such as data loading, data pre-process, normalization, and evaluate metrics.
 
